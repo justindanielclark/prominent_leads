@@ -1,0 +1,16 @@
+{
+  "name": "batchleads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.0",
+    "exceljs": "^4.3.0",
+    "write-excel-file": "^1.4.13"
+  }
+}
